@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.footer-container {
+  align-self: stretch;
+  text-align: center;
+  background-color: #e2e8f0;
+  height: 80px;
+  width: 80%;
+}
+
+.footer-heading {
+  color: #475569;
+}
